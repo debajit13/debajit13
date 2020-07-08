@@ -1,9 +1,10 @@
 ### Hi there 👋
 **Welcome** to my GitHub profile :pray:
-🔭 I’m currently working on Web Development 
+
 📫 How to reach me: Connect with me :handshake: 
 * [LinkedIn](https://www.linkedin.com/in/debajit-mallick/)
 * [Twitter](https://twitter.com/MallickDebajit)
+
 :memo:
 :pencil: Check out my blogs:
 * [Medium](https://medium.com/@mallickdebajit3)
