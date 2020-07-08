@@ -1,7 +1,7 @@
 ### Hi there 👋
 **Welcome** to my GitHub profile :pray:
 
-🌱 I’m currently learning **Full Stack Development** and 👯 I’m looking to collaborate on **Web Dev** projects.
+🌱 I’m currently learning **Full Stack Development** and looking to 👯 collaborate on **Web Dev** projects.
 
 
 📫 Connect with me: :handshake: 
