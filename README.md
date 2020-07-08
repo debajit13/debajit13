@@ -9,8 +9,7 @@
 * [Twitter](https://twitter.com/MallickDebajit)
 * [Email](mallickdebajit3@gmail.com)
 
-:memo:
- Check out my **blogs**:
+:memo: Check out my **blogs**: :arrow_down:
 * [Medium](https://medium.com/@mallickdebajit3)
 * [dev.to](https://dev.to/debajit13)
 
