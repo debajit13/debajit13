@@ -1,12 +1,16 @@
 ### Hi there 👋
 **Welcome** to my GitHub profile :pray:
 
-📫 How to reach me: Connect with me :handshake: 
+🌱 I’m currently learning **Full Stack Development** and 👯 I’m looking to collaborate on **Web Dev** projects.
+
+
+📫 Connect with me: :handshake: 
 * [LinkedIn](https://www.linkedin.com/in/debajit-mallick/)
 * [Twitter](https://twitter.com/MallickDebajit)
+* [Email](mallickdebajit3@gmail.com)
 
 :memo:
-:pencil: Check out my blogs:
+ Check out my **blogs**:
 * [Medium](https://medium.com/@mallickdebajit3)
 * [dev.to](https://dev.to/debajit13)
 
