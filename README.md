@@ -1,5 +1,5 @@
 ### Hi there, I'm Debajit! 👋
-**Welcome** to my GitHub profile :pray:
+<p><img src="https://media.giphy.com/media/8PyTvI5EOu9LbAm8uS/giphy.gif" alt="Welcome" style="height=100px, width:100px;"/> to my GitHub profile :pray:</p>
 
 🌱 I’m a 20 year old **Programmer** from India.
 
@@ -11,6 +11,7 @@
 * [dev.to](https://dev.to/debajit13)
 
 [![Debajit's github stats](https://github-readme-stats.vercel.app/api?username=debajit13&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **debajit13/debajit13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
