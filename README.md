@@ -1,3 +1,4 @@
+
 <img src="./assets/cover/cover.png" alt="cover" width="100%"/>
 
 ### Hi there, I'm Debajit! 👋
@@ -16,6 +17,11 @@
 [<img src="./assets/social-media/medium.png" style="text-align=center; margin-right : 5px"/>](https://medium.com/@mallickdebajit3)
 
 [![Debajit's github stats](https://github-readme-stats.vercel.app/api?username=debajit13&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<script src="https://profile.codersrank.io/widget/widget.js"></script>
+<codersrank-widget
+  username="debajit13"
+  style="--bg-color: #111; --header-bg-color: #222; --badge-bg-color: #333; --badge-text-color: #fff;"
+></codersrank-widget>
 
 <!--
 **debajit13/debajit13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
