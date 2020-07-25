@@ -1,6 +1,8 @@
+<img src="./assets/cover/cover.png" alt="cover" width="100%" style="border-radius: 30%"/>
+
 ### Hi there, I'm Debajit! 👋
 <p>Welcome to my GitHub profile :pray:</p>
-<img src="./assets/cover/cover.png" alt="cover" width="100%"/>
+
 🌱 I’m a 20 years old **Programmer** from India.
 
 📫 Connect with me: :handshake: 
