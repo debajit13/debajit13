@@ -1,4 +1,4 @@
-<img src="./assets/cover/cover.png" alt="cover" width="100%" style="border: 5px solid black"/>
+<img src="./assets/cover/cover.png" alt="cover" width="100%"/>
 
 ### Hi there, I'm Debajit! 👋
 <p>Welcome to my GitHub profile :pray:</p>
