@@ -1,6 +1,6 @@
 ### Hi there, I'm Debajit! 👋
-<p><img src="https://media.giphy.com/media/8PyTvI5EOu9LbAm8uS/giphy.gif" alt="Welcome" style="height=100px, width:100px;"/> to my GitHub profile :pray:</p>
-
+<p>Welcome to my GitHub profile :pray:</p>
+<img src="./assets/cover/cover.png" alt="cover" width="100%"/>
 🌱 I’m a 20 years old **Programmer** from India.
 
 📫 Connect with me: :handshake: 
