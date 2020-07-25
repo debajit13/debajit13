@@ -6,11 +6,10 @@
 🌱 I’m a 20 years old **Programmer** from India. I love web development.
 
 📫 Connect with me: :handshake: 
-<div style="padding: 5px">
- [<img src="./assets/social-media/linkedin.png"/>](https://medium.com/@mallickdebajit3)
- [<img src="./assets/social-media/twitter.png"/>](https://medium.com/@mallickdebajit3)
- [<img src="./assets/social-media/facebook.png"/>](https://medium.com/@mallickdebajit3)
-</div>
+
+ [<img src="./assets/social-media/linkedin.png" style="margin-right : 5px"/>](https://medium.com/@mallickdebajit3)
+ [<img src="./assets/social-media/twitter.png" style="margin-right : 5px"/>](https://medium.com/@mallickdebajit3)
+ [<img src="./assets/social-media/facebook.png" style="margin-right : 5px"/>](https://medium.com/@mallickdebajit3)
 
 :memo: Check out my **blogs**: :arrow_down:
 * [<img src="./assets/social-media/medium.png"/>](https://medium.com/@mallickdebajit3)
