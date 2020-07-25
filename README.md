@@ -7,9 +7,9 @@
 
 📫 Connect with me: :handshake: 
 
- [<img src="./assets/social-media/linkedin.png" style="text-align="center"; margin-right : 5px"/>](https://medium.com/@mallickdebajit3)
- [<img src="./assets/social-media/twitter.png" style="text-align="center"; margin-right : 5px"/>](https://medium.com/@mallickdebajit3)
- [<img src="./assets/social-media/facebook.png" style="text-align="center"; margin-right : 5px"/>](https://medium.com/@mallickdebajit3)
+ [<img src="./assets/social-media/linkedin.png" style="text-align="center", margin-right : 5px"/>](https://medium.com/@mallickdebajit3)
+ [<img src="./assets/social-media/twitter.png" style="text-align="center", margin-right : 5px"/>](https://medium.com/@mallickdebajit3)
+ [<img src="./assets/social-media/facebook.png" style="text-align="center", margin-right : 5px"/>](https://medium.com/@mallickdebajit3)
 
 :memo: Check out my **blogs**: :arrow_down:
 * [<img src="./assets/social-media/medium.png"/>](https://medium.com/@mallickdebajit3)
