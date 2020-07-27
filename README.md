@@ -6,9 +6,11 @@
 
 🌱 I’m a 20 years old **Programmer** from India. I love web development.
 
-📫 Connect with me: :handshake: 
+
 
 <p align="center">
+ 📫 Connect with me: :handshake: 
+ 
  <a href="https://www.linkedin.com/in/debajit-mallick/"><img src="./assets/social-media/linkedin.png" style="text-align:center; margin-right : 5px"/></a>
  <a href="https://twitter.com/MallickDebajit"><img src="./assets/social-media/twitter.png" style="text-align:center; margin-right : 5px"/></a>
  <a href="https://www.facebook.com/debajit.mallick.79"><img src="./assets/social-media/facebook.png" style="text-align:center; margin-right : 5px"/></a>
