@@ -2,11 +2,15 @@
 <img src="./assets/cover/cover.png" alt="cover" width="100%"/>
 
 ### Hi there, I'm Debajit! 👋
-<p style="color: red">Welcome to my GitHub profile :pray:</p>
+<p>Welcome to my GitHub profile :pray:</p>
 
- I’m a 20 years old **Programmer** from India.
-🌱 I’m currently learning Full Stack Web Development.
-⚡ Fun fact: I :sparkling_heart: to make doodle. If you want to see them definitely visit my facebook profile.
+ I’m a 20 years old **Programmer** from India. Currently I am pursuing my sophomore year B.Tech in Computer Science and Engineering from Siliguri Institute of Technology.
+ 
+ <img src="./assets/dino.gif" width="100%" />
+ 
+🌱 I’m currently learning about *Full Stack Development*.
+⚡ Fun fact: I :sparkling_heart: to make *doodle*. If you want to see them definitely visit my **facebook** profile.
+👯 I’m looking to collaborate on some awesome *projects* in *Web Development*.
 
 :memo: Check out my **blogs**: :arrow_down:
 
@@ -24,7 +28,7 @@
  <a href="https://www.facebook.com/debajit.mallick.79"><img src="./assets/social-media/facebook.png" style="text-align:center; margin-right : 5px"/></a>
 </p>
 
-<img src="./assets/dino.gif" width="100%" />
+
 
 <!--
 **debajit13/debajit13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
