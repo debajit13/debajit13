@@ -9,7 +9,9 @@
  <img src="./assets/dino.gif" width="100%" />
  
 🌱 I’m currently learning about *Full Stack Development*.
+
 ⚡ Fun fact: I :sparkling_heart: to make *doodle*. If you want to see them definitely visit my **facebook** profile.
+
 👯 I’m looking to collaborate on some awesome *projects* in *Web Development*.
 
 :memo: Check out my **blogs**: :arrow_down:
