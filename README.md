@@ -2,17 +2,19 @@
 <img src="./assets/cover/cover.png" alt="cover" width="100%"/>
 
 ### Hi there, I'm Debajit! 👋
-<p>Welcome to my GitHub profile :pray:</p>
+<p style="color: red">Welcome to my GitHub profile :pray:</p>
 
-🌱 I’m a 20 years old **Programmer** from India. I love web development.
-
-
+ I’m a 20 years old **Programmer** from India.
+🌱 I’m currently learning Full Stack Web Development.
+⚡ Fun fact: I :sparkling_heart: to make doodle. If you want to see them definitely visit my facebook profile.
 
 :memo: Check out my **blogs**: :arrow_down:
 
 [<img src="./assets/social-media/medium.png" style="text-align:center"/>](https://medium.com/@mallickdebajit3)
 
+
 [![Debajit's github stats](https://github-readme-stats.vercel.app/api?username=debajit13&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/debajit13?tab=repositories)
+
 
 <p align="center" style="font-size: 25px">📫 Connect with me: :handshake:</p> 
 
