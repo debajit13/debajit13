@@ -4,7 +4,7 @@
 ### Hi there, I'm Debajit! 👋
 <p>Welcome to my GitHub profile :pray:</p>
 
- I’m a 20 years old **Programmer** from India. Currently I am pursuing my sophomore year B.Tech in Computer Science and Engineering from Siliguri Institute of Technology.
+ I’m a 20 years old **Programmer** from India. Currently I am pursuing my sophomore year B.Tech in *Computer Science and Engineering* from Siliguri Institute of Technology, West Bengal, India.
  
  <img src="./assets/dino.gif" width="100%" />
  
