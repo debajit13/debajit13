@@ -20,7 +20,6 @@
 <a href="https://dev.to/debajit13"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Debajit Mallick's DEV Profile" height="48px" width="48px"></a>
 
 
-
 [![Debajit's github stats](https://github-readme-stats.vercel.app/api?username=debajit13&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/debajit13?tab=repositories)
 
 
