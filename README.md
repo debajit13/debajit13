@@ -17,7 +17,7 @@
 :memo: Check out my **blogs**: :arrow_down:
 
 [<img src="./assets/social-media/medium.png" style="text-align:center"/>](https://medium.com/@mallickdebajit3)
-<a href="https://dev.to/debajit13"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Debajit Mallick's DEV Profile" height="42px" width="42px"></a>
+<a href="https://dev.to/debajit13"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Debajit Mallick's DEV Profile" height="48px" width="48px"></a>
 
 
 
