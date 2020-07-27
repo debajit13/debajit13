@@ -9,9 +9,9 @@
 📫 Connect with me: :handshake: 
 
 <p align="center">
- [<img src="./assets/social-media/linkedin.png" style="text-align:center; margin-right : 5px"/>](https://www.linkedin.com/in/debajit-mallick/)
- [<img src="./assets/social-media/twitter.png" style="text-align:center; margin-right : 5px"/>](https://twitter.com/MallickDebajit)
- [<img src="./assets/social-media/facebook.png" style="text-align:center; margin-right : 5px"/>](https://www.facebook.com/debajit.mallick.79)
+ <a href="https://www.linkedin.com/in/debajit-mallick/"><img src="./assets/social-media/linkedin.png" style="text-align:center; margin-right : 5px"/></a>
+ <a href="https://twitter.com/MallickDebajit"><img src="./assets/social-media/twitter.png" style="text-align:center; margin-right : 5px"/></a>
+ <a href="https://www.facebook.com/debajit.mallick.79"><img src="./assets/social-media/facebook.png" style="text-align:center; margin-right : 5px"/></a>
 </p>
 
 :memo: Check out my **blogs**: :arrow_down:
