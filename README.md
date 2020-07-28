@@ -24,24 +24,24 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debajit13&show_icons=true&theme=algolia)](https://github.com/debajit13?tab=repositories)
 
+<div style="">
 <a href="https://github.com/debajit13/tindog">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=debajit13&repo=tindog" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=debajit13&repo=tindog" width="400px />
 </a>
 <a href="https://github.com/debajit13/Drummer">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=debajit13&repo=Drummer" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=debajit13&repo=Drummer" width="400px"/>
 </a>
+</div>
 
 
+<br><br>
 <p align="center" style="font-size: 25px">📫 Connect with me: :handshake:</p> 
-
-
+<br>
 <p align="center">
  <a href="https://www.linkedin.com/in/debajit-mallick/"><img src="./assets/social-media/linkedin.png" style="text-align:center; margin-right : 5px"/></a>
  <a href="https://twitter.com/MallickDebajit"><img src="./assets/social-media/twitter.png" style="text-align:center; margin-right : 5px"/></a>
  <a href="https://www.facebook.com/debajit.mallick.79"><img src="./assets/social-media/facebook.png" style="text-align:center; margin-right : 5px"/></a>
 </p>
-
-
 
 
 
