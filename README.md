@@ -20,16 +20,28 @@
 <a href="https://dev.to/debajit13"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Debajit Mallick's DEV Profile" height="48px" width="48px"></a>
 
 
-[![Debajit's github stats](https://github-readme-stats.vercel.app/api?username=debajit13&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/debajit13?tab=repositories)
+[![Debajit's github stats](https://github-readme-stats.vercel.app/api?username=debajit13&show_icons=true&theme=algolia)](https://github.com/debajit13?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debajit13&show_icons=true&theme=algolia)](https://github.com/debajit13?tab=repositories)
+
+<a href="https://github.com/debajit13/tindog">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=debajit13&repo=tindog" />
+</a>
+<a href="https://github.com/debajit13/Drummer">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=debajit13&repo=Drummer" />
+</a>
 
 
 <p align="center" style="font-size: 25px">📫 Connect with me: :handshake:</p> 
+
 
 <p align="center">
  <a href="https://www.linkedin.com/in/debajit-mallick/"><img src="./assets/social-media/linkedin.png" style="text-align:center; margin-right : 5px"/></a>
  <a href="https://twitter.com/MallickDebajit"><img src="./assets/social-media/twitter.png" style="text-align:center; margin-right : 5px"/></a>
  <a href="https://www.facebook.com/debajit.mallick.79"><img src="./assets/social-media/facebook.png" style="text-align:center; margin-right : 5px"/></a>
 </p>
+
+
 
 
 
