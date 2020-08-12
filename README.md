@@ -8,7 +8,7 @@
   
 🌱 I’m currently learning about *Full Stack Development*.
 
-⚡ Fun fact: I :sparkling_heart: to make *doodle*. If you want to see them definitely visit my **facebook** profile.
+⚡ Fun fact: I :sparkling_heart: to make *doodle*. If you want to see them visit my **facebook** profile.
 
 👯 I’m looking to collaborate on some awesome *projects* in *Web Development*.
 
@@ -22,17 +22,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debajit13&show_icons=true&theme=algolia)](https://github.com/debajit13?tab=repositories)
 
-<div style="">
+<div>
 <a href="https://github.com/debajit13/tindog">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=debajit13&repo=tindog" width="450px />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=debajit13&repo=tindog" width="450px" style="align: left"/>
 </a>
 <a href="https://github.com/debajit13/Drummer">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=debajit13&repo=Drummer" width="450px"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=debajit13&repo=Drummer" width="450px" style="align: left"/>
 </a>
 </div>
-<br>
 
-<div align="center">
+
  <p style="font-size: 25px">📫 Connect with me: :handshake:</p> 
  <br>
  <a href="https://www.linkedin.com/in/debajit-mallick/"><img src="https://gp3.googleusercontent.com/rs4yxqGcOQBD43JjqIX8SB5rMojfLpdI2gTJn_1HtaKRyj8QFyzB1WH9f-CkBEvEkZRpPONZADLwsbhGOQk5ddEPb8upQdsmxxyJVEVAmn0KPVK4CPXgFe14fpIWn_Aw6b8NjFbc_Q=s48-p-k" style="text-align:center; margin-right : 5px"/></a>
