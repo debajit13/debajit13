@@ -22,7 +22,17 @@
 <img src="https://gp3.googleusercontent.com/2Gw-z10EFvIR6JP2APu5F0160lxdaA-MLdSyCmfC9lnJYUQHkH_CWua-ysmwfNS716hWfVjrM73CqPHeXjxNOuHnCJam-ulAnqVUOi15Zn3QdfdXdKCqNjEiXehgW5Ygca5x8cet2A=s48-p-k" />
 </div>
 
-:memo: Check out my **blogs**: :arrow_down:
+📚 Libraries/Frameworks I use:
+<div style="inline">
+ <img src="https://gp3.googleusercontent.com/dQOg4syyKHIyOsKRm2AljixqfuEoXWLktCcz1LTim6Fghr_afDMoAFQ-8g58dyNonJHFIqG528OMiLWFGF0Lblx8Gzy2ABulE3jW246LWPx5XbaQmjR4WPFY2YzEY1fogE4X2Y-BFw=s48-p-k" />
+ <img src="https://gp3.googleusercontent.com/xpusb6Sn-CTs74omfD5HTwbnVeVYa9lqoUTl4mgrye-EmZWw5U2psiZU3Fk7cpEBPjLe4z28PS16AcN8OdjKrsrK-Q67sdoeViY44rHw7YuavIjOmQmWWiVCkCd-hJdyYpfjldVO9Q=s48-p-k" />
+ <img src="https://gp3.googleusercontent.com/sHQurDedPsMjmAevyA5GVtr1q8UmA2lz1ubelDyc_Qpvw8-Ijo_natWj0Jmyc0oOO2UP_Xn6yW40XQm0Buqd-zQdVCmT_-P03tGtqI6OinvBCYIBVCDmGmW7toRErrvhgFFCI3chzQ=s48-p-k" />
+ <img src="https://lh3.googleusercontent.com/Z9gq0E-OJ3ZPoSdFnmTHHvoxjhJtOW6JAYnIWFRZF8DBWl_sdzrJTLGIcgjrqCd3ukLXE4uF1ncD2-bdw-nW7ImzvJm02EVLX1VPsm8NXLVaxqTItbypiR1L_7sSNONN1yE66WV3mA=s240-p-k" width="48px" height="48px"/>
+</div>
+
+
+
+ 📝 Check out my **blogs**: 
 
 <a href="https://medium.com/@mallickdebajit3"><img src="https://gp3.googleusercontent.com/iJJ4_1lo9FnkjtWhXJwTPxiPv72Wdzeglv2tIL8yePb2lDu2m3G11ECK9KlQNoqK6czwFvV_EmoJew2_98YVZkSUMdGLmpfRRk4JPEzTt44QWDjfJyZJdLlPGiXs2NmIt7WMkhFDbw=s48-p-k" style="text-align:center"/></a>
 <a href="https://dev.to/debajit13"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Debajit Mallick's DEV Profile" height="48px" width="48px"></a>
