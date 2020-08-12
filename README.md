@@ -17,6 +17,13 @@
 <a href="https://medium.com/@mallickdebajit3"><img src="https://gp3.googleusercontent.com/iJJ4_1lo9FnkjtWhXJwTPxiPv72Wdzeglv2tIL8yePb2lDu2m3G11ECK9KlQNoqK6czwFvV_EmoJew2_98YVZkSUMdGLmpfRRk4JPEzTt44QWDjfJyZJdLlPGiXs2NmIt7WMkhFDbw=s48-p-k" style="text-align:center"/></a>
 <a href="https://dev.to/debajit13"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Debajit Mallick's DEV Profile" height="48px" width="48px"></a>
 
+ 📫 Connect with me: :handshake:
+ 
+ <a href="https://www.linkedin.com/in/debajit-mallick/"><img src="https://gp3.googleusercontent.com/rs4yxqGcOQBD43JjqIX8SB5rMojfLpdI2gTJn_1HtaKRyj8QFyzB1WH9f-CkBEvEkZRpPONZADLwsbhGOQk5ddEPb8upQdsmxxyJVEVAmn0KPVK4CPXgFe14fpIWn_Aw6b8NjFbc_Q=s48-p-k" style="margin-right : 5px"/></a>
+ <a href="https://twitter.com/MallickDebajit"><img src="https://gp3.googleusercontent.com/v_LdxBFUbEB6Jd7-4kTqWEepbGRnBEbmRnCL6cVjApJchGsKDE4frlchAlV389TMp3BsuGgMgu-e5ttHz7fzUbDqiNe5Jl1GhzwZRFla8O7trVP_N71bgD3XBTp4m0RC5noudt8Bwg=s48-p-k" style="margin-right : 5px"/></a>
+ <a href="https://www.facebook.com/debajit.mallick.79"><img src="https://gp3.googleusercontent.com/4z2VXzS073q2P8awnhezZ1ojnDjJhfFVn0cKiQk8NAiN231lQ9J2PxgKwFeganSlG2WSsshXVovizTFt-KEkVDJ2XzFWNU4F32bVnX_hWJQqdQs8cngAgSVzlf8VJgSZFdGJ0CnVgQ=s48-p-k" style="margin-right : 5px"/></a>
+</p>
+
 
 [![Debajit's github stats](https://github-readme-stats.vercel.app/api?username=debajit13&show_icons=true&theme=algolia)](https://github.com/debajit13?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debajit13&show_icons=true&theme=algolia)](https://github.com/debajit13?tab=repositories)
@@ -31,12 +38,6 @@
 </div>
 
 
- <div style="font-size: 25px; text-align: center">📫 Connect with me: :handshake:</div> 
- <br>
- <a href="https://www.linkedin.com/in/debajit-mallick/"><img src="https://gp3.googleusercontent.com/rs4yxqGcOQBD43JjqIX8SB5rMojfLpdI2gTJn_1HtaKRyj8QFyzB1WH9f-CkBEvEkZRpPONZADLwsbhGOQk5ddEPb8upQdsmxxyJVEVAmn0KPVK4CPXgFe14fpIWn_Aw6b8NjFbc_Q=s48-p-k" style="text-align:center; margin-right : 5px"/></a>
- <a href="https://twitter.com/MallickDebajit"><img src="https://gp3.googleusercontent.com/v_LdxBFUbEB6Jd7-4kTqWEepbGRnBEbmRnCL6cVjApJchGsKDE4frlchAlV389TMp3BsuGgMgu-e5ttHz7fzUbDqiNe5Jl1GhzwZRFla8O7trVP_N71bgD3XBTp4m0RC5noudt8Bwg=s48-p-k" style="text-align:center; margin-right : 5px"/></a>
- <a href="https://www.facebook.com/debajit.mallick.79"><img src="https://gp3.googleusercontent.com/4z2VXzS073q2P8awnhezZ1ojnDjJhfFVn0cKiQk8NAiN231lQ9J2PxgKwFeganSlG2WSsshXVovizTFt-KEkVDJ2XzFWNU4F32bVnX_hWJQqdQs8cngAgSVzlf8VJgSZFdGJ0CnVgQ=s48-p-k" style="text-align:center; margin-right : 5px"/></a>
-</p>
 
 <!--
 **debajit13/debajit13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
