@@ -1,5 +1,5 @@
 
-<img src="./assets/cover/cover.png" alt="cover" width="100%"/>
+<img src="https://lh3.googleusercontent.com/2P1AKBLl45yktcYlqd_htpeF7WMpeCm12oXhjPt745k4-V9cQMeOS4twea6fZeU47VZYxBchafoUol_79BR2FUxr9Zw9fAc1nFKFvmAawZhangcQDaoKFjqZKQmUh2bVcTb3swsvAQ=w2400" alt="cover image"/>
 
 ### Hi there, I'm Debajit! 👋
 <p>Welcome to my GitHub profile :pray:</p>
