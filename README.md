@@ -30,10 +30,10 @@
 
 <div style="width: 100%, display: inline-block">
 <a href="https://github.com/debajit13/tindog">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=debajit13&repo=tindog" width="450px" style="display: inline"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=debajit13&repo=tindog" />
 </a>
 <a href="https://github.com/debajit13/Drummer">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=debajit13&repo=Drummer" width="450px" style="display: inline"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=debajit13&repo=Drummer" />
 </a>
 </div>
 
