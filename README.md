@@ -28,14 +28,6 @@
 [![Debajit's github stats](https://github-readme-stats.vercel.app/api?username=debajit13&show_icons=true&theme=algolia)](https://github.com/debajit13?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debajit13&show_icons=true&theme=algolia)](https://github.com/debajit13?tab=repositories)
 
-<div style="width: 100%, display: inline-block">
-<a href="https://github.com/debajit13/tindog">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=debajit13&repo=tindog" />
-</a>
-<a href="https://github.com/debajit13/Drummer">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=debajit13&repo=Drummer" />
-</a>
-</div>
 
 
 
