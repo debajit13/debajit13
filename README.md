@@ -12,6 +12,16 @@
 
 👯 I’m looking to collaborate on some awesome *projects* in *Web Development*.
 
+📊 Programming Languages I know:
+<div style="display: inline"
+<img src="https://gp3.googleusercontent.com/ggTxERmUzvTyu-8wmM3fUNvLpHJK3_wHSxLCS5HIxmPLuQ_LyHrMAwxRWR321KWWUM3d-udk1xBrem3n5wOddhjVwFaITPB8icCWTp6xu2mzocB5Ch82IIkIBOZHuwhcz-QKRgl9ZQ=s48-p-k" />
+<img src="https://gp3.googleusercontent.com/ZMitnA8FOG1Ac4zjvzGuQ9l8Cta_sTIp9I6ETpR1CKl0QryLGRE29PIL9OjmdLjWBXYOQyV804Wrp7ofSn6TZTTCmPHmid786Xlb9krZpZo_ZTLSFoAJL7meCXbJIiCNHpu0jbbR-Q=s48-p-k" />
+<img src="https://gp3.googleusercontent.com/YoT7zNS_1xQtlz6VMTLvCqrqtSBvwJ8PgkJVoVmbLAP_lOpsPhdo7qia0ZQwTVrYUyRuesuqrpEXJY_JkKsfeZtrm5z0CdOYwaibeSSqfiXvFaBq4sWLfis2e-bPKUngC2rxYnERTA=s48-p-k" />
+<img src="https://gp3.googleusercontent.com/wBuL3z-Sv3gW5M2eOXDmN2-fC_txIAzPzyFWR51BFiEsoxDb0GVhI9LFwuX9S4Lef7QON05QJBkRPNcp7p68pdHmPOe80NI3p6DySAz9Ukh1OcUdOYPbquHbuS0zpTfrkGhDwvpivQ=s48-p-k" />
+<img src="https://gp3.googleusercontent.com/vmoLuO2OGs5WjhvFFbDja2XlYWQA6Sl2NiCqfqOeoHM9qBEUMUDiCevXmXPEqkrGB9-PyCd0XWxot7xepcq73imiTRDGFU4W9PxzTMu0ouO8OaRmUS6_iZDJOJMghJ9KnnR87jLJiA=s48-p-k" />
+<img src="https://gp3.googleusercontent.com/2Gw-z10EFvIR6JP2APu5F0160lxdaA-MLdSyCmfC9lnJYUQHkH_CWua-ysmwfNS716hWfVjrM73CqPHeXjxNOuHnCJam-ulAnqVUOi15Zn3QdfdXdKCqNjEiXehgW5Ygca5x8cet2A=s48-p-k" />
+</div>
+
 :memo: Check out my **blogs**: :arrow_down:
 
 <a href="https://medium.com/@mallickdebajit3"><img src="https://gp3.googleusercontent.com/iJJ4_1lo9FnkjtWhXJwTPxiPv72Wdzeglv2tIL8yePb2lDu2m3G11ECK9KlQNoqK6czwFvV_EmoJew2_98YVZkSUMdGLmpfRRk4JPEzTt44QWDjfJyZJdLlPGiXs2NmIt7WMkhFDbw=s48-p-k" style="text-align:center"/></a>
