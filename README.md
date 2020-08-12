@@ -4,10 +4,8 @@
 ### Hi there, I'm Debajit! 👋
 <p>Welcome to my GitHub profile :pray:</p>
 
- I’m a 20 years old **Programmer** from India. Currently I am pursuing my sophomore year B.Tech in *Computer Science and Engineering* from Siliguri Institute of Technology, West Bengal, India.
- 
- <img src="./assets/dino.gif" width="100%" />
- 
+ I’m a 20 years old **Programmer** from India. Currently I am pursuing my pre-final year B.Tech in *Computer Science and Engineering* from Siliguri Institute of Technology, West Bengal, India.
+  
 🌱 I’m currently learning about *Full Stack Development*.
 
 ⚡ Fun fact: I :sparkling_heart: to make *doodle*. If you want to see them definitely visit my **facebook** profile.
@@ -16,7 +14,7 @@
 
 :memo: Check out my **blogs**: :arrow_down:
 
-[<img src="./assets/social-media/medium.png" style="text-align:center"/>](https://medium.com/@mallickdebajit3)
+<a href="https://medium.com/@mallickdebajit3"><img src="https://gp3.googleusercontent.com/iJJ4_1lo9FnkjtWhXJwTPxiPv72Wdzeglv2tIL8yePb2lDu2m3G11ECK9KlQNoqK6czwFvV_EmoJew2_98YVZkSUMdGLmpfRRk4JPEzTt44QWDjfJyZJdLlPGiXs2NmIt7WMkhFDbw=s48-p-k" style="text-align:center"/></a>
 <a href="https://dev.to/debajit13"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Debajit Mallick's DEV Profile" height="48px" width="48px"></a>
 
 
@@ -37,9 +35,9 @@
 <div align="center">
  <p style="font-size: 25px">📫 Connect with me: :handshake:</p> 
  <br>
- <a href="https://www.linkedin.com/in/debajit-mallick/"><img src="./assets/social-media/linkedin.png" style="text-align:center; margin-right : 5px"/></a>
- <a href="https://twitter.com/MallickDebajit"><img src="./assets/social-media/twitter.png" style="text-align:center; margin-right : 5px"/></a>
- <a href="https://www.facebook.com/debajit.mallick.79"><img src="./assets/social-media/facebook.png" style="text-align:center; margin-right : 5px"/></a>
+ <a href="https://gp3.googleusercontent.com/rs4yxqGcOQBD43JjqIX8SB5rMojfLpdI2gTJn_1HtaKRyj8QFyzB1WH9f-CkBEvEkZRpPONZADLwsbhGOQk5ddEPb8upQdsmxxyJVEVAmn0KPVK4CPXgFe14fpIWn_Aw6b8NjFbc_Q=s48-p-k"><img src="./assets/social-media/linkedin.png" style="text-align:center; margin-right : 5px"/></a>
+ <a href="https://gp3.googleusercontent.com/v_LdxBFUbEB6Jd7-4kTqWEepbGRnBEbmRnCL6cVjApJchGsKDE4frlchAlV389TMp3BsuGgMgu-e5ttHz7fzUbDqiNe5Jl1GhzwZRFla8O7trVP_N71bgD3XBTp4m0RC5noudt8Bwg=s48-p-k"><img src="./assets/social-media/twitter.png" style="text-align:center; margin-right : 5px"/></a>
+ <a href="https://gp3.googleusercontent.com/4z2VXzS073q2P8awnhezZ1ojnDjJhfFVn0cKiQk8NAiN231lQ9J2PxgKwFeganSlG2WSsshXVovizTFt-KEkVDJ2XzFWNU4F32bVnX_hWJQqdQs8cngAgSVzlf8VJgSZFdGJ0CnVgQ=s48-p-k"><img src="./assets/social-media/facebook.png" style="text-align:center; margin-right : 5px"/></a>
 </p>
 
 
