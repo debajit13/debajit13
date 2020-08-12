@@ -19,20 +19,19 @@
 
 
 [![Debajit's github stats](https://github-readme-stats.vercel.app/api?username=debajit13&show_icons=true&theme=algolia)](https://github.com/debajit13?tab=repositories)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debajit13&show_icons=true&theme=algolia)](https://github.com/debajit13?tab=repositories)
 
-<div style="width: 100%, margin-bottom: 100px">
+<div style="width: 100%, display: inline-block">
 <a href="https://github.com/debajit13/tindog">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=debajit13&repo=tindog" width="450px" style="align: left"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=debajit13&repo=tindog" width="450px" style="display: inline"/>
 </a>
 <a href="https://github.com/debajit13/Drummer">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=debajit13&repo=Drummer" width="450px" style="align: left"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=debajit13&repo=Drummer" width="450px" style="display: inline"/>
 </a>
 </div>
 
 
- <p style="font-size: 25px"; style="text-align: center">📫 Connect with me: :handshake:</p> 
+ <div style="font-size: 25px; text-align: center">📫 Connect with me: :handshake:</div> 
  <br>
  <a href="https://www.linkedin.com/in/debajit-mallick/"><img src="https://gp3.googleusercontent.com/rs4yxqGcOQBD43JjqIX8SB5rMojfLpdI2gTJn_1HtaKRyj8QFyzB1WH9f-CkBEvEkZRpPONZADLwsbhGOQk5ddEPb8upQdsmxxyJVEVAmn0KPVK4CPXgFe14fpIWn_Aw6b8NjFbc_Q=s48-p-k" style="text-align:center; margin-right : 5px"/></a>
  <a href="https://twitter.com/MallickDebajit"><img src="https://gp3.googleusercontent.com/v_LdxBFUbEB6Jd7-4kTqWEepbGRnBEbmRnCL6cVjApJchGsKDE4frlchAlV389TMp3BsuGgMgu-e5ttHz7fzUbDqiNe5Jl1GhzwZRFla8O7trVP_N71bgD3XBTp4m0RC5noudt8Bwg=s48-p-k" style="text-align:center; margin-right : 5px"/></a>
