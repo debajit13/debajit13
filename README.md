@@ -6,7 +6,7 @@
 
  I’m a 20 years old **Programmer** from India. Currently I am pursuing my pre-final year B.Tech in *Computer Science and Engineering* from Siliguri Institute of Technology, West Bengal, India.
   
-🌱 I am a *Full Stack Developer*.
+🌱 I am currently learning *React Native*.
 
 ⚡ Fun fact: I :sparkling_heart: to make *doodle*. If you want to see them visit my **facebook** profile.
 
