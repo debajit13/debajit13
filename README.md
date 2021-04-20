@@ -4,9 +4,9 @@
 ### Hi there, I'm Debajit! 👋
 <p>Welcome to my GitHub profile :pray:</p>
 
- I’m a 20 years old **Programmer** from India. Currently I am pursuing my pre-final year B.Tech in *Computer Science and Engineering* from Siliguri Institute of Technology, West Bengal, India.
+ I’m a 21 years old **Programmer** from India. Currently I am pursuing my pre-final year B.Tech in *Computer Science and Engineering* from Siliguri Institute of Technology, West Bengal, India.
   
-🌱 I am currently learning *React Native*.
+🌱 I am currently learning *VueJS*.
 
 ⚡ Fun fact: I :sparkling_heart: to make *doodle*. If you want to see them visit my **facebook** profile.
 
