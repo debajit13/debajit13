@@ -1,74 +1,49 @@
+<h1 align="center">Hi 👋, I'm Debajit Mallick</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://lh3.googleusercontent.com/2P1AKBLl45yktcYlqd_htpeF7WMpeCm12oXhjPt745k4-V9cQMeOS4twea6fZeU47VZYxBchafoUol_79BR2FUxr9Zw9fAc1nFKFvmAawZhangcQDaoKFjqZKQmUh2bVcTb3swsvAQ=w2400" alt="cover image"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debajit13" alt="debajit13" /></a> </p>
 
-### Hi there, I'm Debajit! 👋
-<p>Welcome to my GitHub profile :pray:</p>
+<p align="left"> <a href="https://twitter.com/mallickdebajit" target="blank"><img src="https://img.shields.io/twitter/follow/mallickdebajit?logo=twitter&style=for-the-badge" alt="mallickdebajit" /></a> </p>
 
- I’m a 21 years old **Programmer** from India. Currently I am pursuing my pre-final year B.Tech in *Computer Science and Engineering* from Siliguri Institute of Technology, West Bengal, India.
-  
-🌱 I am currently learning *VueJS*.
+- 🔭 I’m currently working on **VueJS**
 
-⚡ Fun fact: I :sparkling_heart: to make *doodle*. If you want to see them visit my **facebook** profile.
+- 🌱 I’m currently learning **NuxtJS**
 
-👯 I’m looking to collaborate on some awesome *projects* in *Web Development*.
+- 👨‍💻 All of my projects are available at [www.debajitmallick.com](www.debajitmallick.com)
 
-📊 Programming Languages I know:
-<div style="display: inline"/>
-<img src="https://gp3.googleusercontent.com/ggTxERmUzvTyu-8wmM3fUNvLpHJK3_wHSxLCS5HIxmPLuQ_LyHrMAwxRWR321KWWUM3d-udk1xBrem3n5wOddhjVwFaITPB8icCWTp6xu2mzocB5Ch82IIkIBOZHuwhcz-QKRgl9ZQ=s48-p-k" style="margin-right : 5px"/>
-<img src="https://gp3.googleusercontent.com/vmoLuO2OGs5WjhvFFbDja2XlYWQA6Sl2NiCqfqOeoHM9qBEUMUDiCevXmXPEqkrGB9-PyCd0XWxot7xepcq73imiTRDGFU4W9PxzTMu0ouO8OaRmUS6_iZDJOJMghJ9KnnR87jLJiA=s48-p-k" style="margin-right : 5px"/>
-<img src="https://gp3.googleusercontent.com/ZMitnA8FOG1Ac4zjvzGuQ9l8Cta_sTIp9I6ETpR1CKl0QryLGRE29PIL9OjmdLjWBXYOQyV804Wrp7ofSn6TZTTCmPHmid786Xlb9krZpZo_ZTLSFoAJL7meCXbJIiCNHpu0jbbR-Q=s48-p-k" style="margin-right : 5px"/>
-<img src="https://gp3.googleusercontent.com/YoT7zNS_1xQtlz6VMTLvCqrqtSBvwJ8PgkJVoVmbLAP_lOpsPhdo7qia0ZQwTVrYUyRuesuqrpEXJY_JkKsfeZtrm5z0CdOYwaibeSSqfiXvFaBq4sWLfis2e-bPKUngC2rxYnERTA=s48-p-k" style="margin-right : 5px"/>
-<img src="https://gp3.googleusercontent.com/2Gw-z10EFvIR6JP2APu5F0160lxdaA-MLdSyCmfC9lnJYUQHkH_CWua-ysmwfNS716hWfVjrM73CqPHeXjxNOuHnCJam-ulAnqVUOi15Zn3QdfdXdKCqNjEiXehgW5Ygca5x8cet2A=s48-p-k" style="margin-right : 5px"/>
-<img src="https://gp3.googleusercontent.com/wBuL3z-Sv3gW5M2eOXDmN2-fC_txIAzPzyFWR51BFiEsoxDb0GVhI9LFwuX9S4Lef7QON05QJBkRPNcp7p68pdHmPOe80NI3p6DySAz9Ukh1OcUdOYPbquHbuS0zpTfrkGhDwvpivQ=s48-p-k" style="margin-right : 5px"/>
-</div>
+- 📝 I regularly write articles on [https://dev.to/debajit13](https://dev.to/debajit13)
 
-📚 Libraries/Frameworks I use:
-<div style="inline">
- <img src="https://gp3.googleusercontent.com/xpusb6Sn-CTs74omfD5HTwbnVeVYa9lqoUTl4mgrye-EmZWw5U2psiZU3Fk7cpEBPjLe4z28PS16AcN8OdjKrsrK-Q67sdoeViY44rHw7YuavIjOmQmWWiVCkCd-hJdyYpfjldVO9Q=s48-p-k" style="margin-right : 5px"/>
- <img src="https://gp3.googleusercontent.com/dQOg4syyKHIyOsKRm2AljixqfuEoXWLktCcz1LTim6Fghr_afDMoAFQ-8g58dyNonJHFIqG528OMiLWFGF0Lblx8Gzy2ABulE3jW246LWPx5XbaQmjR4WPFY2YzEY1fogE4X2Y-BFw=s48-p-k" style="margin-right : 5px"/>
- <img src="https://lh3.googleusercontent.com/_J-GU55lJImn2DTdnOePvpO29IdlcQeabrKxg1x6ACW3kTkrTgugOtgvcrUI33W0UbDd7pURv_i1-0F9dbO_WhJXv73611VwQEihZVpqO6ldBhCf3RnO29aiM7p2bymNcsIodLMRMg=w2400" width="48px" height="48px" style="margin-right : 5px"/>
- <img src="https://gp3.googleusercontent.com/sHQurDedPsMjmAevyA5GVtr1q8UmA2lz1ubelDyc_Qpvw8-Ijo_natWj0Jmyc0oOO2UP_Xn6yW40XQm0Buqd-zQdVCmT_-P03tGtqI6OinvBCYIBVCDmGmW7toRErrvhgFFCI3chzQ=s48-p-k" style="margin-right : 5px"/>
- <img src="https://lh3.googleusercontent.com/Z9gq0E-OJ3ZPoSdFnmTHHvoxjhJtOW6JAYnIWFRZF8DBWl_sdzrJTLGIcgjrqCd3ukLXE4uF1ncD2-bdw-nW7ImzvJm02EVLX1VPsm8NXLVaxqTItbypiR1L_7sSNONN1yE66WV3mA=s240-p-k" width="48px" height="48px" style="margin-right : 5px"/>
-</div>
+- 💬 Ask me about **Frontend Development, JavaScript, Vue, React**
 
-🛠 Tools I use:
-<div style="inline">
- <img src="https://gp3.googleusercontent.com/bG9QbQKaVnFnCegu6vFDiwDvbA6PAAg-Cc_K9FZc153oTSoOowqVgnrA3wTYsFnvw1JyxK0quUaAjTp7jsWPuHkMhLKpxMiic57uUuejaVn0Q2xuEzxe286oquqZSfzlcImOnkoDnA=s48-p-k" style="margin-right : 5px"/>
- <img src="https://gp3.googleusercontent.com/uvAtTx6Dj8lhH8WwxBwg-bsNCKuV9n2zUUIZO0Z05-aVW1nTX6tvh6by-2oxgCKosnAtuXaZgPaCie8Y89PaOhnYjrD8iEx0euCnM-KWeg8AuGWZ7s0ci-b_PQO3mT1eiFXBQvOPTw=s48-p-k" style="margin-right : 5px"/>
- <img src="https://gp3.googleusercontent.com/-7AZqtAWQUqa7UPtLTvIx8JaArepJnHHAJ3PpcQo0Cumr1nrgAvrMi9RT0hEZqVLmt_LDm2yjqDYR1ZrtBBPveR-8ztjjK62zMKkuiX0dBpXnAj8EjELG-bpWuaZNzob5J3wgIrz6g=s48-p-k" style="margin-right : 5px"/>
- <img src="https://gp3.googleusercontent.com/0WZMtRyCsPrYUPRlUkuSCMRp0Fb2t-NJhJ9A-UGNizRFcufq7V-1w5tNoCZnG6PRVsp4234JTZTBEsr4ZAW26CX-fEONG1fe7jrbKMkD-xQgmuTSXBTuQnAb8pianG0aQgatk71U8g=s48-p-k" style="margin-right : 5px"/>
- <img src="https://gp3.googleusercontent.com/z6l5FcAD9oU-tdsCykfXwXrqusBRixzEkFcWBIcWTnXMKTy05JaydPoOaXu6NX0yWpSTKMZYHXPoOcA6ud3WfeOF8vDzs_FTjSTvrV4ecs28XPvsZ9EpZ2fE3Rk_U1dvlpTzIbHQTw=s48-p-k" /style="margin-right : 5px">
-</div>
+- 📫 How to reach me **mallickdebajit3@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Df7av3k4tITahA55KrkkuKclICQTQjv8/view?usp=sharing](https://drive.google.com/file/d/1Df7av3k4tITahA55KrkkuKclICQTQjv8/view?usp=sharing)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
- 📝 Check out my **blogs**: 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/debajit13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="debajit13" height="30" width="40" /></a>
+<a href="https://dev.to/debajit13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="debajit13" height="30" width="40" /></a>
+<a href="https://twitter.com/mallickdebajit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mallickdebajit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debajit-mallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debajit-mallick" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/debajit-mallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="debajit-mallick" height="30" width="40" /></a>
+<a href="https://codesandbox.com/debajit13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="debajit13" height="30" width="40" /></a>
+<a href="https://fb.com/debajit.mallick.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="debajit.mallick.13" height="30" width="40" /></a>
+<a href="https://dribbble.com/debajit13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="debajit13" height="30" width="40" /></a>
+<a href="https://hashnode.com/@debajit13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@debajit13" height="30" width="40" /></a>
+<a href="https://medium.com/@debajit13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@debajit13" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mallickdebajit3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mallickdebajit3" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/debajit13/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="debajit13/profile" height="30" width="40" /></a>
+</p>
 
-<a href="https://medium.com/@mallickdebajit3"><img src="https://gp3.googleusercontent.com/iJJ4_1lo9FnkjtWhXJwTPxiPv72Wdzeglv2tIL8yePb2lDu2m3G11ECK9KlQNoqK6czwFvV_EmoJew2_98YVZkSUMdGLmpfRRk4JPEzTt44QWDjfJyZJdLlPGiXs2NmIt7WMkhFDbw=s48-p-k" style="text-align:center" style="margin-right : 5px"/></a>
-<a href="https://dev.to/debajit13"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Debajit Mallick's DEV Profile" height="48px" width="48px" style="margin-right : 5px"></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debajit13&show_icons=true&locale=en&layout=compact" alt="debajit13" /></p>
 
- 🤝 Connect with me: 
- 
- <a href="https://www.linkedin.com/in/debajit-mallick/"><img src="https://gp3.googleusercontent.com/rs4yxqGcOQBD43JjqIX8SB5rMojfLpdI2gTJn_1HtaKRyj8QFyzB1WH9f-CkBEvEkZRpPONZADLwsbhGOQk5ddEPb8upQdsmxxyJVEVAmn0KPVK4CPXgFe14fpIWn_Aw6b8NjFbc_Q=s48-p-k" style="margin-right : 5px"/></a>
- <a href="https://twitter.com/MallickDebajit"><img src="https://gp3.googleusercontent.com/v_LdxBFUbEB6Jd7-4kTqWEepbGRnBEbmRnCL6cVjApJchGsKDE4frlchAlV389TMp3BsuGgMgu-e5ttHz7fzUbDqiNe5Jl1GhzwZRFla8O7trVP_N71bgD3XBTp4m0RC5noudt8Bwg=s48-p-k" style="margin-right : 5px"/></a>
- <a href="https://www.facebook.com/debajit.mallick.79"><img src="https://gp3.googleusercontent.com/4z2VXzS073q2P8awnhezZ1ojnDjJhfFVn0cKiQk8NAiN231lQ9J2PxgKwFeganSlG2WSsshXVovizTFt-KEkVDJ2XzFWNU4F32bVnX_hWJQqdQs8cngAgSVzlf8VJgSZFdGJ0CnVgQ=s48-p-k" style="margin-right : 5px"/></a>
- <a href="https://www.reddit.com/user/debajit13"><img src="https://gp3.googleusercontent.com/Gb6FxVQZmHwQ9bdtizfLNe15D5j_8ttRj4x-baArip-8FHTDNHEbox94qNhsxy-IhH6a4hSxZGRQnd8yAzgR_pkINTxPUvhxTUHS0JUUiyXtP21KxMuVsMhpQZDzGBo3JYuwc5J9Sw=s48-p-k" style="margin-right : 5px"/></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debajit13&show_icons=true&locale=en" alt="debajit13" /></p>
 
-[![Debajit's github stats](https://github-readme-stats.vercel.app/api?username=debajit13&show_icons=true&theme=algolia)](https://github.com/debajit13?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debajit13&show_icons=true&theme=algolia)](https://github.com/debajit13?tab=repositories)
-
-
-
-
-<!--
-**debajit13/debajit13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debajit13&" alt="debajit13" /></p>
