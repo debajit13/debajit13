@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Debajit Mallick</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debajit13" alt="debajit13" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debajit13" alt="debajit13" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mallickdebajit" target="blank"><img src="https://img.shields.io/twitter/follow/mallickdebajit?logo=twitter&style=for-the-badge" alt="mallickdebajit" /></a> </p>
 
-- 🔭 I’m currently working on **VueJS**
+- 🔭 I’m currently working on **ReactJS**
 
-- 🌱 I’m currently learning **NuxtJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [www.debajitmallick.com](www.debajitmallick.com)
 
 - 📝 I regularly write articles on [https://dev.to/debajit13](https://dev.to/debajit13)
 
-- 💬 Ask me about **Frontend Development, JavaScript, Vue, React**
+- 💬 Ask me about **Frontend Development, JavaScript, ReactJS and VueJS**
 
 - 📫 How to reach me **mallickdebajit3@gmail.com**
 
