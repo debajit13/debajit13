@@ -217,9 +217,9 @@
         />
       </a>
     </p>
-<div style="display: 'flex'">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debajit13&show_icons=true&locale=en" alt="debajit13" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debajit13&" alt="debajit13" />
+<div>
+  <img align="center" width='100%' src="https://github-readme-stats.vercel.app/api?username=debajit13&show_icons=true&locale=en" alt="debajit13" />
+  <img align="center" width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=debajit13&" alt="debajit13" />
 </div>
 
 
