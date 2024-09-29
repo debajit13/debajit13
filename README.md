@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, Welcome to my space</h1>
-<h3 align="center">My name is Debajit Mallick, a passionate frontend developer from India</h3>
+<img src="./assets/cover.png" width="100%"/>
 
+<h3 align="center">My name is Debajit Mallick, a Software Engineer with 2+ years of professional experience from India</h3>
 <p align="left"> <a href="https://twitter.com/mallickdebajit" target="blank"><img src="https://img.shields.io/twitter/follow/mallickdebajit?logo=twitter&style=for-the-badge" alt="mallickdebajit" /></a> </p>
 
 - 🌐 To check out my portfolio website go to [www.debajitmallick.com](https://www.debajitmallick.com)
